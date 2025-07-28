@@ -14,6 +14,10 @@ jobs:
         with:
           fetch-depth: 0
           lfs: true
+      - name: Set up Git user
+        run: |
+          git config --global user.name "Saranraj-k"
+          git config --global user.email "saranraj22222@gmail.com"
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
