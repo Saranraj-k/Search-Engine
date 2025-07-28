@@ -19,3 +19,4 @@ uvicorn
 langserve
 streamlit
 wikipedia
+altair
