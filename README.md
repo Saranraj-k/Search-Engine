@@ -4,7 +4,8 @@
 
 This project is an intelligent search engine chatbot built using [LangChain](https://www.langchain.com/), [Streamlit](https://streamlit.io/), and [Groq LLMs](https://groq.com/). The chatbot utilizes multiple tools (Wikipedia, Arxiv, and DuckDuckGo Search) to answer queries intelligently using an agent-based approach.
 
-<img width="1905" height="786" alt="image" src="https://github.com/user-attachments/assets/70d1034b-2581-45f3-95a1-ed2aea687a40" />
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/8590ce4a-b657-4d7d-9822-080f621e2c8c" />
+
 
 
 ---
@@ -30,6 +31,8 @@ This project is an intelligent search engine chatbot built using [LangChain](htt
 - **DuckDuckGo**, **Wikipedia**, **Arxiv** integrations via LangChain community tools
 - **dotenv** for API key management
 
+## 🤗 Deployment
+- **HuggingSpace**
 ---
 
 ## 📦 Installation
