@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 load_dotenv()
 import os
 
-##Used the inbuilt tools
+###Used the inbuilt tools
 api_wrapper_wiki = WikipediaAPIWrapper(top_k_results=1, doc_content_chars_max=250)
 wiki = WikipediaQueryRun(api_wrapper=api_wrapper_wiki)
 ##Used the inbuilt tools
